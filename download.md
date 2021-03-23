@@ -1,5 +1,5 @@
 ### Markiplier's Mansion {DEMO}
-#### <code>[<< Return To Main Page](https://pikakid98.github.io/)</code> | <code>[< Return To Repo Page](https://pikakid98.github.io/markipliers-mansion-demo)</code>
+#### <code>[<< Return To Main Page](https://pikakid98.github.io/)</code> <code>[< Return To Repo Page](https://pikakid98.github.io/markipliers-mansion-demo)</code>
 
 <h1>Current Build</h1>
 

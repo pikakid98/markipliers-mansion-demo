@@ -1,15 +1,10 @@
 ## Markiplier's Mansion {DEMO}
-[< Return To Main Page](https://pikakid98.github.io/)
+#### [< Return To Main Page](https://pikakid98.github.io/)
 
-<h1>Current Build</h1>
+An old Markiplier fan game that I created with RPG Maker VX Ace and started with the lite version
 
-v0.1
+This game was inspired by RadicalSoda's "With The Addition Of Markiplier" series and was my attempt to get into the spotlight but I gave up due to a lack of confidence that Markiplier would ever even know about the game. There are 2 versions. 1 is the original lite version that was created using RPG Maker VX Ace Lite and the second version is a more fleshed out version after I bought the full version of RPG Maker VX Ace
 
-[Binary (Windows)](https://github.com/pikakid98/markipliers-mansion-demo/releases/download/v0.1/Markiplier.s.Mansion.DEMO.7z) | [Source Code](https://github.com/pikakid98/markipliers-mansion-demo/archive/refs/tags/v0.1.zip)
+You can get the collection here ► [https://pikakid98games.wordpress.com/markipliersmansion/downloads/](https://pikakid98games.wordpress.com/markipliersmansion/downloads/)
 
-
-<h1>Older Builds</h1>
-
-v0.0.1 (Original Lite Build)
-
-[Binary (Windows)](https://github.com/pikakid98/markipliers-mansion-demo/releases/download/v0.0.1/Markipier_s.Mansion.Original.Lite.Demo.7z) | [Source Code](https://github.com/pikakid98/markipliers-mansion-demo/archive/refs/tags/v0.0.1.zip)
+Or download it from here ► [https://pikakid98.github.io/markipliers-mansion-demo/download](https://pikakid98.github.io/markipliers-mansion-demo/download)

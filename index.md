@@ -1,5 +1,3 @@
-## Markiplier's Mansion {DEMO}
-
 #### [![home](https://user-images.githubusercontent.com/12392651/112510346-4013af80-8d89-11eb-8189-8c8f5081d476.png)](https://pikakid98.github.io/)
 
 [![learnmore](https://user-images.githubusercontent.com/12392651/112510364-43a73680-8d89-11eb-871e-04b75e49b2c6.png)](https://pikakid98games.wordpress.com/markipliersmansion) [![download](https://user-images.githubusercontent.com/12392651/112510357-41dd7300-8d89-11eb-837a-f4cd93f6c791.png)](https://pikakid98.github.io/markipliers-mansion-demo/download)
